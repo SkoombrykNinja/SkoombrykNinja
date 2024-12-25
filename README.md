@@ -4,17 +4,6 @@
 
 I enjoy coding, math, music, and science. I enjoy writing code that works and try my best to keep it clean :)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/SkoombrykNinja" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/renato-r-611795133/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SkoombyrkNinja&label=Profile%20views&color=0e75b6&style=flat" alt="SkoombyrkNinja" /> </p>
-
-
 ------
 <h3 align="left">Activity:</h3>
 
